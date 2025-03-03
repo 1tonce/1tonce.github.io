@@ -101,21 +101,15 @@ service-worker: true
 links: [
     {
         title: "个人のGitHub",
-        href: "https://github.com/FujishiroOtone	"
-    },{
-        title: "简书·Otone",
-        href: "https://www.jianshu.com/u/3bf62aac1afc"
+        href: "https://github.com/kroxxfox	"
     },{
         title: "Twitter",
-        href: "https://twitter.com/osuHatsuneMiku"
+        href: "https://twitter.com/koyoria1"
     },{
         title: "个人のbilibili",
-        href: "https://space.bilibili.com/1880573/#/"
+        href: "https://space.bilibili.com/44140971"
     },{
-        title: "asdfv1929",
-        href: "https://asdfv1929.github.io/"
-    },{
-        title: "月小水长",
-        href: "https://inspurer.github.io/"
+        title: "Nrøder Express A/S",
+        href: "https://discord.gg/hvbkG635Hb"
     }
 ]
