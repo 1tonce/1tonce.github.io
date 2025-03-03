@@ -8,7 +8,7 @@ keyword: "Otone, Otone Blog, 前端, 动漫, 游戏"
 url: "https://azonix404.github.io/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/Azonix404/azonix404.github.io/" # you code repository
-home_repo: "http://fujishiro.cn"
+home_repo: "https://azonix404.github.io/"
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
