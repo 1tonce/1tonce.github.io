@@ -9,7 +9,7 @@
      }
      else {
          $('[rel="icon"]').attr('href', "/favicon.ico");
-         document.title = 'wryyyyyyyyyyyyyyyyyyyyyyyyy' + OriginTitle;
+         document.title = 'ciallo (∠·ω )⌒★' + OriginTitle;
          titleTime = setTimeout(function () {
              document.title = OriginTitle;
          }, 2000);
