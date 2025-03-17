@@ -4,8 +4,8 @@ SEOTitle: Azonixの小屋
 header-img: img/tag.jpg
 email: kroxxfox@gmail.com
 description: "青春如遊戲，只是不能再讀檔"
-keyword: "Otone, Otone Blog, 前端, 动漫, 游戏"
-url: "https://azonix404.github.io/"          # your host, for absolute URL
+keyword: "Azonix, Azonix Blog, "
+url: "https://azonix10.github.io/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/Azonix404/azonix404.github.io/" # you code repository
 home_repo: "https://azonix404.github.io/"
@@ -21,7 +21,7 @@ sidebar-about-description: "大切な人といつかまた巡り会えますよ�
 RSS: false
 weibo_username:     #_Otone
 #zhihu_username:     
-github_username:    azonix404
+github_username:    azonix10
 #facebook_username: 
 #jianshu_username:  #3bf62aac1afc
 #twitter_username:   koyoria1
