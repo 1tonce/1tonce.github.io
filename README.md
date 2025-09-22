@@ -1,5 +1,5 @@
 
-### 目录
+### 暂时什么都没有呢~
 
 <!-- - [利用Shadowsocks和 AWS 免费翻墙](http://ingf.github.io/2015/05/07/shadowsocks-aws-.html)
 - [HTTP访问控制(CORS)](http://ingf.github.io/web/2015/01/30/httpcors.html)
