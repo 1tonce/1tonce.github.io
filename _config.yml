@@ -1,0 +1,18 @@
+# Site settings
+title: 1tonce
+email:  1tonce@gmail.com
+description: > # 
+  Less is More
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://azonix10.github.io/" # the base hostname & protocol for your site
+twitter_username: jekyllrb
+github_username:  ingf
+
+# Build settings
+markdown: kramdown
+
+paginate: 50
+
+author: inf
+
+gems: [jekyll-paginate]
