@@ -1,8 +1,8 @@
 # Site settings
-title: Github Pages
+title: My Page
 email:  1tonce@gmail.com
-description: > # 
-  Less is More
+# description: > # 
+#   Less is More
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://1tonce.github.io/" # the base hostname & protocol for your site
 # twitter_username: jekyllrb
@@ -13,6 +13,6 @@ markdown: kramdown
 
 paginate: 50
 
-author: inf
+author: 1tonce
 
 gems: [jekyll-paginate]
