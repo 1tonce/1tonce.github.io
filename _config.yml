@@ -1,12 +1,12 @@
 # Site settings
-title: 1tonce
+title: Github Pages
 email:  1tonce@gmail.com
 description: > # 
   Less is More
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://azonix10.github.io/" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  ingf
+url: "https://1tonce.github.io/" # the base hostname & protocol for your site
+# twitter_username: jekyllrb
+github_username:  1tonce
 
 # Build settings
 markdown: kramdown
